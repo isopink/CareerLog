@@ -81,24 +81,6 @@ AI가 필요하지 않은 일정 및 체크리스트 생성은 규칙 기반으�
 - [발표자료 PDF](./presentation.pdf)
 - [데모 영상 MP4](./demo-video.mp4)
 
-## 👥 팀원 및 Codex 협업
-
-### 🔍 이예림 — Insight / Product Logic / PRD
-
-선행연구와 경쟁 서비스 조사, 아이디어 수렴, 취준노트 구조 설계, `experience / activities / reaction / reason` 필드 정의, Information Gap 기반 레퍼런스 검색 및 평가 로직과 PRD 구체화를 담당했습니다.
-
-### 🎨 정세빈 — Frontend / Interaction Prototype
-
-취준노트와 레퍼런스 초기 프로토타입부터 캘린더 기반 워크스페이스까지 구현했습니다. Codex와 함께 HTML/CSS/JavaScript를 생성하고 실제 상호작용을 확인하며 모달, 상태 갱신, 공고별 액션 플랜을 반복 개선했습니다.
-
-### ⚙️ 정수진 — Backend / DB / AI / Deployment
-
-Spring Boot, PostgreSQL, 인증, 취준노트, OpenAI API 구조화, 채용 공고와 액션 플랜, 캘린더 연동을 구현하고 Docker Compose와 EC2 배포를 연결했습니다.
-
-### 📝 이석민 — Presentation / Documentation
-
-PRD와 구현 결과를 Markdown으로 구조화하고 Codex를 활용해 발표자료와 문서를 제작했습니다. 렌더링 결과를 검수하며 정보 밀도와 발표 흐름을 반복 개선했습니다.
-
 ---
 
 Made for **Codex Community Korea Hackathon** by **Team03**.
